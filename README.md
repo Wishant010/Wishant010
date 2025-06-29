@@ -56,8 +56,7 @@
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=wishant010&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=wishant010&theme=vue-dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wishant010&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🧠 Languages I Use Most (handmatig)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
